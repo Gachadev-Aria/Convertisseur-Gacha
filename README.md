@@ -54,13 +54,13 @@ v0.11.0-beta
 ---
 
 ## 🔜 Prochaines étapes
--Rendre fonctionnelle la conversion GLGL2
--Résoudre les potentielles erreurs de transcription et bugs possibles lors de la conversion transmises par mail.
--Faire la suite de la transcription des poses.
--Séparer les scripts des codes html.
--Ajouter la conversion de Gacha Plus vers Gacha Life 2
--Ajouter la conversion de Gacha Club vers Gacha Nebula ensuite de Gacha Life vers Gacha Nebula
--Ajouter des images décoratives pour les boutons.
+- Rendre fonctionnelle la conversion GLGL2
+- Résoudre les potentielles erreurs de transcription et bugs possibles lors de la conversion transmises par mail.
+- Faire la suite de la transcription des poses.
+- Séparer les scripts des codes html.
+- Ajouter la conversion de Gacha Plus vers Gacha Life 2
+- Ajouter la conversion de Gacha Club vers Gacha Nebula ensuite de Gacha Life vers Gacha Nebula
+- Ajouter des images décoratives pour les boutons.
 
 ---
 
