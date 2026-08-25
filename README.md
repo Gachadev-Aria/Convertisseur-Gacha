@@ -12,21 +12,21 @@ Le projet a commencé au mois de novembre 2025.
 
 ## 📸 Aperçu
 ### Accueil
-![Capture d'écran 1 du site](app/assets/capture_site_accueil.png)
+![Capture d'écran 1 du site](assets/capture_site_accueil.png)
 
 ### Conversion de Gacha Life à Gacha Club
-![Capture d'écran 1 du site](app/assets/capture1_gl_gc.png)
-![Capture d'écran 2 du site](app/assets/capture2_gl_gc.png)
+![Capture d'écran 1 du site](assets/capture1_gl_gc.png)
+![Capture d'écran 2 du site](assets/capture2_gl_gc.png)
 
 ### Conversion de Gacha Club à Gacha Life 2
-![Capture d'écran 1 du site](app/assets/capture1_gc_gl2.png)
-![Capture d'écran 2 du site](app/assets/capture2_gc_gl2.png)
-![Capture d'écran 3 du site](app/assets/capture3_gc_gl2.png)
+![Capture d'écran 1 du site](assets/capture1_gc_gl2.png)
+![Capture d'écran 2 du site](assets/capture2_gc_gl2.png)
+![Capture d'écran 3 du site](assets/capture3_gc_gl2.png)
 
 ### Conversion de Gacha Life à Gacha Life 2
-![Capture d'écran 1 du site](app/assets/capture1_gl_gl2.png)
-![Capture d'écran 2 du site](app/assets/capture2_gl_gl2.png)
-![Capture d'écran 3 du site](app/assets/capture3_gl_gl2.png)
+![Capture d'écran 1 du site](assets/capture1_gl_gl2.png)
+![Capture d'écran 2 du site](assets/capture2_gl_gl2.png)
+![Capture d'écran 3 du site](assets/capture3_gl_gl2.png)
 
 ---
 
