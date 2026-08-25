@@ -48,11 +48,6 @@ v0.11.0-beta
 
 ---
 
-## 🚀 Comment tester ? 🌐 Lien vers le site
-[Accéder au site en ligne](https://convertisseur-gacha.onrender.com/)
-
----
-
 ## 🔜 Prochaines étapes
 - Rendre fonctionnelle la conversion GLGL2
 - Résoudre les potentielles erreurs de transcription et bugs possibles lors de la conversion transmises par mail.
