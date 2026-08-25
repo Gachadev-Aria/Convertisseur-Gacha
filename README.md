@@ -39,6 +39,30 @@ v0.11.0-beta
 - ✅ Site 100% bilingue (Français et Anglais)
 
 ---
+## 📌 État actuel
+✅ Frontend : Fonctionnel et navigable. (Suppression de la modale pour le bouton (GL à GL2), ajout de boutons annonce pour de futures conversions)
+✅ Backend : Complet. (Erreurs mineurs de conversion résolus), conversion GLGL2 non fonctionnelle
+✅ Database Document : Complet pour son état actuel.
+✅ Sécurité (Note: A d'après [Security Headers](SecurityHeaders.com))
+❌ Fonctionnalités manquantes : transcription totale des poses.
+
+---
+
+## 🚀 Comment tester ? 🌐 Lien vers le site
+[Accéder au site en ligne](https://convertisseur-gacha.onrender.com/)
+
+---
+
+## 🔜 Prochaines étapes
+-Rendre fonctionnelle la conversion GLGL2
+-Résoudre les potentielles erreurs de transcription et bugs possibles lors de la conversion transmises par mail.
+-Faire la suite de la transcription des poses.
+-Séparer les scripts des codes html.
+-Ajouter la conversion de Gacha Plus vers Gacha Life 2
+-Ajouter la conversion de Gacha Club vers Gacha Nebula ensuite de Gacha Life vers Gacha Nebula
+-Ajouter des images décoratives pour les boutons.
+
+---
 
 ## 📌 **À propos du projet**
 - **Backend** : Python (Flask)
