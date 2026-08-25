@@ -9,7 +9,10 @@ Un site web gratuit permettant de réussir l'exportation de vos personnages:
 Le projet a commencé au mois de novembre 2025.
 
 ---
+## Version:
+v0.11.0-beta
 
+---
 ## 📸 Aperçu
 ### Accueil
 ![Capture d'écran 1 du site](assets/capture_site_accueil.png)
@@ -46,7 +49,6 @@ Le projet a commencé au mois de novembre 2025.
 ---
 
 ## 🤖 Utilisation de l'IA
-
 Ce projet a été développé avec l'aide d'outils d'intelligence artificielle (Mistral AI).
 
 **Ma contribution** inclut :
@@ -57,5 +59,4 @@ Ce projet a été développé avec l'aide d'outils d'intelligence artificielle (
 
 ---
 ## 📧 Contact
-
 Vous pouvez me contacter par mail: aria.and.idriss@gmail.com
