@@ -10,7 +10,7 @@ Le projet a commencé au mois de novembre 2025.
 
 ---
 ## Version:
-v0.11.0-beta
+v0.11.1-beta
 
 ---
 ## 📸 Aperçu
@@ -56,8 +56,7 @@ v0.11.0-beta
 - Ajouter la conversion de Gacha Plus vers Gacha Life 2
 - Ajouter la conversion de Gacha Club vers Gacha Nebula ensuite de Gacha Life vers Gacha Nebula
 - Ajouter des images décoratives pour les boutons.
-- Simplifier les formulaires Google
-
+- 
 ---
 
 ## 📌 **À propos du projet**
