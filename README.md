@@ -56,7 +56,7 @@ v0.11.0-beta
 - Ajouter la conversion de Gacha Plus vers Gacha Life 2
 - Ajouter la conversion de Gacha Club vers Gacha Nebula ensuite de Gacha Life vers Gacha Nebula
 - Ajouter des images décoratives pour les boutons.
-- Ajouter une page formulaire pour simplifier les formulaires Google
+- Simplifier les formulaires Google
 
 ---
 
