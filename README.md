@@ -12,6 +12,10 @@ Le projet a commencé au mois de novembre 2025.
 ## Version:
 v0.11.1-beta
 
+## Langue:
+- Français
+- Anglais
+
 ---
 ## 📸 Aperçu
 ### Accueil
@@ -34,17 +38,16 @@ v0.11.1-beta
 ---
 
 ## 🚀 Fonctionnalités
-- ✅ Rapport bilingue sur les erreurs pour l'utilisateur
-- ✅ Formulaire bilingue en cas de problème de transcription
-- ✅ Site 100% bilingue (Français et Anglais)
-
+- 📃 Rapport bilingue sur les erreurs pour l'utilisateur
+- 📩 Formulaire bilingue en cas de problème de transcription
+- ➡️ 2 conversions fonctionnelles et d'autres à venir.
 ---
 ## 📌 État actuel
-✅ Frontend : Fonctionnel et navigable. (Suppression de la modale pour le bouton (GL à GL2), ajout de boutons annonce pour de futures conversions)
-✅ Backend : Complet. (Erreurs mineurs de conversion résolus), conversion GLGL2 non fonctionnelle
-✅ Database Document : Complet pour son état actuel.
-✅ Sécurité (Note: A d'après [Security Headers](SecurityHeaders.com))
-❌ Fonctionnalités manquantes : transcription totale des poses.
+- ✅ Frontend : Fonctionnel et navigable.
+- ✅ Backend : Complet. (conversion GLGL2 non fonctionnelle, donc en maintenance)
+- ✅ Database Document : Complet pour son état actuel.
+- ✅ Sécurité (Note: A d'après [Security Headers](SecurityHeaders.com))
+- ❌ Fonctionnalités manquantes : transcription totale des poses.
 
 ---
 
