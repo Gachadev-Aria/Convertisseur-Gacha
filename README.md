@@ -9,12 +9,13 @@ Un site web gratuit permettant de réussir l'exportation de vos personnages:
 Le projet a commencé au mois de novembre 2025.
 
 ---
-## Version:
+## Version actuelle:
 v0.11.1-beta
 
-## Langue:
+## Langue disponible:
 - Français
 - Anglais
+- Espagnol (à venir)
 
 ---
 ## 📸 Aperçu
@@ -59,7 +60,7 @@ v0.11.1-beta
 - Ajouter la conversion de Gacha Plus vers Gacha Life 2
 - Ajouter la conversion de Gacha Club vers Gacha Nebula ensuite de Gacha Life vers Gacha Nebula
 - Ajouter des images décoratives pour les boutons.
-- 
+- (Ajouter l'espagnol)
 ---
 
 ## 📌 **À propos du projet**
