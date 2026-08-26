@@ -12,10 +12,9 @@ Le projet a commencé au mois de novembre 2025.
 ## Version actuelle:
 v0.11.1-beta
 
-## Langue disponible:
+## Langues disponibles:
 - Français
 - Anglais
-- Espagnol (à venir)
 
 ---
 ## 📸 Aperçu
