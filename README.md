@@ -45,12 +45,8 @@ v0.11.1-beta
 
 ---
 
-## 📌 État actuel
-- ✅ Frontend : Fonctionnel et navigable.
-- ✅ Backend : Complet.
-- ✅ Database Document : Complet pour son état actuel.
-- ✅ Sécurité (Note: A d'après [Security Headers](SecurityHeaders.com))
-- ❌ Fonctionnalités manquantes : transcription totale des poses.
+## 📌 État actuel 
+-Projet suspendu jusqu'à nouvel ordre
 
 ---
 
