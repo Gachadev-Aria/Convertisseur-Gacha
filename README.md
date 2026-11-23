@@ -46,7 +46,12 @@ v0.11.1-beta
 ---
 
 ## 📌 État actuel 
--Projet suspendu jusqu'à nouvel ordre
+✅ Frontend : Fonctionnel et navigable.
+✅ Backend : Complet. (conversion GLGL2 non fonctionnelle)
+✅ Database Document : Complet pour son état actuel.
+✅ Sécurité (Note: A d'après Security Headers)
+✅ Captcha fonctionnel, et formulaire Google simplifié.
+❌ Fonctionnalités manquantes : transcription totale des poses.
 
 ---
 
